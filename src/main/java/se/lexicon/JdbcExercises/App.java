@@ -2,7 +2,7 @@ package se.lexicon.JdbcExercises;
 
 /**
  * Hello world!
- *
+ * https://github.com/aastrandemma/JDBC-Workshop
  */
 public class App 
 {
